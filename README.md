@@ -137,5 +137,14 @@ APP_REPORT.md/.pdf# before/after report (Arabic) + todo list
 
 ## Screenshots
 
-_Add `docs/screenshots/*.png` (login, home, product, cart, receipt, admin panel) —
-recommended before adding to a CV._
+| Login | Home | Products |
+|---|---|---|
+| ![Login](docs/screenshots/login.png) | ![Home](docs/screenshots/home.png) | ![Products](docs/screenshots/products.png) |
+
+| Details | Cart | Receipt |
+|---|---|---|
+| ![Details](docs/screenshots/details.png) | ![Cart](docs/screenshots/cart.png) | ![Receipt](docs/screenshots/receipt.png) |
+
+| Orders | Admin |
+|---|---|
+| ![Orders](docs/screenshots/orders.png) | ![Admin](docs/screenshots/admin.png) |
